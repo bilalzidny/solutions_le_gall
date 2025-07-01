@@ -1,5 +1,4 @@
 # Solutions to Exercises from *Brownian Motion, Martingales, and Stochastic Calculus*  
-## by Jean-François Le Gall
 
 Welcome to this repository containing detailed solutions to selected exercises from Jean-François Le Gall’s book *Brownian Motion, Martingales, and Stochastic Calculus*.
 
@@ -33,7 +32,7 @@ This repository aims to support students and researchers studying stochastic cal
 ## Contact
 
 For questions or suggestions, please contact me at:  
-`your.email@example.com`
+`bilal.zidna@student-cs.fr`
 
 ---
 
